@@ -8,5 +8,11 @@ namespace TestProject
 {
     public class Class1
     {
+        public string Title { get; set; }
+
+        public void GetTitle()
+        {
+
+        }
     }
 }
