@@ -12,7 +12,7 @@ namespace TestProject
 
         public void GetTitle()
         {
-
+            Title = "No, here is new title.";
         }
     }
 }
