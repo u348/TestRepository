@@ -12,7 +12,7 @@ namespace TestProject
 
         public void GetTitle()
         {
-            Title = "Title of feature branch 1.";
+            Title = "Title of feature branch 2.";
         }
     }
 }
