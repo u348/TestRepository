@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestProject
 {
-    public class Class1
+    public class Class2
     {
-        public string Title { get; set; }
-
-        public void GetTitle()
+        public void Calc(int a, int b)
         {
-            Title = "Title of feature branch 3.";
+            var sum = a + b;
         }
     }
 }
